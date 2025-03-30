@@ -53,6 +53,26 @@
 
 ---
 
+## ✨ My Services
+
+*   🎨 **Custom Web Design:** Building modern, responsive websites tailored to your brand.
+*   🚀 **Performance Optimization:** Ensuring your site is fast and efficient.
+*   🔍 **SEO Optimization:** Helping your business get found on Google.
+*   💻 **Custom Development:** Bringing unique web features to life.
+
+---
+
+## 🏆 GitHub Trophy
+
+<!-- GitHub Profile Trophy - Customize themes here: https://github.com/ryo-ma/github-profile-trophy -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thuggys&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
+  </a>
+</p>
+
+---
+
 ## 📊 My GitHub Stats
 
 <!-- GitHub Readme Stats - Replace 'your-username' -->
@@ -68,8 +88,8 @@
 
 <!-- Add links to your profiles -->
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="[YOUR_PORTFOLIO_URL]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.cherrycapitalweb.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.cherrycapitalweb.com/#contact" target="_blank"><img src="https://img.shields.io/badge/Get%20In%20Touch-Contact%20Me-blue?style=for-the-badge&logo=Mail.Ru&logoColor=white" alt="Contact Me"/></a>&nbsp; <!-- Assuming your site has a contact section/form, adjust href if needed -->
   <!-- Add Twitter, etc. if you have them -->
   <!-- <a href="[YOUR_TWITTER_URL]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp; -->
 </p>
