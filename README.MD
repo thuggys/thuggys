@@ -138,10 +138,13 @@
 
 <!-- 3D CONTRIBUTIONS CALENDAR -->
 <div align="center">
-  <h3>📅 3D Contribution Calendar 📅</h3>
-  <img src="https://skyline.github.com/thuggys/2024" alt="3D Contribution Calendar" width="600" />
-  <br>
-  <em><a href="https://skyline.github.com/thuggys/2024" target="_blank">Interactive 3D GitHub Contribution Calendar (powered by GitHub Skyline)</a></em>
+  <h3>📅 GitHub Contribution Calendar 📅</h3>
+  <a href="https://skyline.github.com/thuggys/2024" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%203D%20Contribution%20Calendar-9833FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+  </a>
+  <br><br>
+  <!-- Calendar Heatmap -->
+  <img src="https://github-readme-stats.vercel.app/api?username=thuggys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&icon_color=C691E9&text_color=FFFFFF&ring_color=C691E9&hide_title=true&include_all_commits=true" alt="contribution calendar"/>
 </div>
 
 <br>
