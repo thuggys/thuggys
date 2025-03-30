@@ -26,51 +26,34 @@
 
 <!-- Glowing Profile Bio with Enhanced GIF --> 
 <div align="center">
-  <!-- Digital Alchemist Potion Bottle Section -->
-  <div style="max-width: 800px; margin: 20px auto; background: linear-gradient(135deg, rgba(25,0,50,0.8), rgba(45,0,80,0.8)); border-radius: 15px; padding: 30px; box-shadow: 0 0 30px #a020f0; position: relative; overflow: hidden;">
-    <!-- Animated sparkles overlay -->
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVqMnBpeWV3YnV6dmhiaWo2dXdocXpyY2Rvb3dvbm9iaXlnOWk4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CdoTTeAMHxreJG/giphy.gif'); background-size: cover; opacity: 0.2; mix-blend-mode: screen;"></div>
+  <!-- Digital Alchemist Section - GitHub Compatible -->
+  <div>
+    <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="350" alt="IT Crowd PC on Fire" />
     
-    <!-- Potion bottle header -->
-    <div style="margin-bottom: 25px;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVpcXJ5aG5rZXc2MjRpaGtuaGlnMWZ5cjV2ZWh3djZneXZ2c29ocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYRzcWMCTPUPyPm/giphy.gif" height="100" alt="Magical Potion" style="border-radius: 10px;" />
-    </div>
+    <h2>⚗️ <span style="color: #9370DB; font-weight: bold;">DIGITAL ALCHEMIST</span> ⚗️</h2>
     
-    <!-- Title with rainbow effect -->
-    <h2>
-      <span style="background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); -webkit-background-clip: text; color: transparent; font-weight: bold; font-size: 32px; text-shadow: 0 0 5px rgba(255,255,255,0.3);">⚗️ DIGITAL ALCHEMIST ⚗️</span>
-    </h2>
+    <p>Transforming digital visions into reality with mystical coding powers</p>
     
-    <!-- IT Crowd PC on fire -->
-    <div style="margin: 20px 0;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZsZHhpa2Z3ZXRvNWtmbWU4M3B1ZGswaXc1dDdmNWt5aGUxaXF1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dbtDDSvWErdf2/giphy.gif" height="200" alt="IT Crowd PC on Fire" style="border-radius: 10px; box-shadow: 0 0 20px #ff4500;" />
-    </div>
+    <table>
+      <tr>
+        <td align="center">
+          <h3>⚛️ React & Next.js sorcery ✨</h3>
+        </td>
+        <td align="center">
+          <h3>🪄 JavaScript enchantments 🔥</h3>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <h3>🐍 Python automation wizardry 🧙‍♂️</h3>
+        </td>
+        <td align="center">
+          <h3>🚀 Performance optimization magic ⚡</h3>
+        </td>
+      </tr>
+    </table>
     
-    <!-- Skills section with potion ingredients styling -->
-    <div style="background: rgba(0,0,0,0.2); padding: 20px; border-radius: 10px; max-width: 500px; margin: 0 auto; border: 1px solid rgba(170,0,255,0.3);">
-      <p style="text-align: center;">
-        <span style="background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00); -webkit-background-clip: text; color: transparent; font-weight: bold; font-size: 18px;">Transforming digital visions into reality with:</span>
-      </p>
-      
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 15px;">
-        <div style="background: rgba(80,0,120,0.5); padding: 10px 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(200,0,255,0.3);">
-          ⚛️ React & Next.js sorcery ✨
-        </div>
-        <div style="background: rgba(80,0,120,0.5); padding: 10px 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(200,0,255,0.3);">
-          🪄 JavaScript enchantments 🔥
-        </div>
-        <div style="background: rgba(80,0,120,0.5); padding: 10px 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(200,0,255,0.3);">
-          🐍 Python automation wizardry 🧙‍♂️
-        </div>
-        <div style="background: rgba(80,0,120,0.5); padding: 10px 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(200,0,255,0.3);">
-          🚀 Performance optimization magic ⚡
-        </div>
-      </div>
-      
-      <p style="text-align: center; margin-top: 20px;">
-        <b>✨ Currently brewing:</b> <span style="background-image: linear-gradient(to right, #00ff00, #0000ff, #4b0082); -webkit-background-clip: text; color: transparent; font-weight: bold;">being lazy af</span> 😴
-      </p>
-    </div>
+    <h3>✨ Currently brewing: <span style="color: #9370DB;">being lazy af</span> 😴</h3>
   </div>
 </div>
 
