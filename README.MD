@@ -18,15 +18,15 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZkcnpwMG9mYWxlcmhsYWkydjkwYW1vbmRucm45bjVnOXgxZXU3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 20px; box-shadow: 0 0 30px #a020f0;"/>
   
   <div align="left" style="width: 45%; margin-right: 20px;">
-    <h3>🔮 Digital Alchemist</h3>
+    <h3>🔮 <span style="background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); -webkit-background-clip: text; color: transparent; font-weight: bold;">Digital Alchemist</span> 🌈</h3>
     <p>
-      Transforming digital visions into reality with:<br>
-      • React & Next.js sorcery<br>
-      • JavaScript enchantments<br>
-      • Python automation wizardry<br>
-      • Performance optimization magic<br>
+      <span style="background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00); -webkit-background-clip: text; color: transparent;">Transforming digital visions into reality with:</span><br>
+      • ⚛️ React & Next.js sorcery ✨<br>
+      • 🪄 JavaScript enchantments 🔥<br>
+      • 🐍 Python automation wizardry 🧙‍♂️<br>
+      • 🚀 Performance optimization magic ⚡<br>
       <br>
-      <b>✨ Currently crafting:</b> Next.js + AI experiences
+      <b>✨ Currently crafting:</b> <span style="background-image: linear-gradient(to right, #00ff00, #0000ff, #4b0082); -webkit-background-clip: text; color: transparent; font-weight: bold;">being lazy af</span> 😴
     </p>
   </div>
 </div>
