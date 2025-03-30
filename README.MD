@@ -1,45 +1,49 @@
-<!-- Header - Enhanced 3D Banner with Parallax Effect -->
+<!-- Header - Enhanced Dynamic Banner -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=auto:0,9818ff,8d18ff&height=200&section=header&text=thuggys%20//%20Web%20Developer&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Building%20Modern%20Web%20Experiences&descAlignY=60&descSize=20&fontSize=50&stroke=000000&strokeWidth=2&rotate=Y&angle=10">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto:0,5718ff,6a18ff&height=200&section=header&text=thuggys%20//%20Web%20Developer&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Building%20Modern%20Web%20Experiences&descAlignY=60&descSize=20&fontSize=50&stroke=000000&strokeWidth=2&rotate=Y&angle=10" alt="3D Header" style="transform: perspective(1000px)">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=thuggys%20//%20Web%20Developer&fontColor=d6ace6&animation=fadeIn&fontAlignY=38&desc=Building%20Extraordinary%20Web%20Experiences&descAlignY=55&descSize=18&fontSize=40&strokeWidth=1&stroke=7f18a6">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=thuggys%20//%20Web%20Developer&fontColor=d6ace6&animation=fadeIn&fontAlignY=38&desc=Building%20Extraordinary%20Web%20Experiences&descAlignY=55&descSize=18&fontSize=40&strokeWidth=1&stroke=7f18a6" alt="header">
   </picture>
 </div>
 
-<!-- Matrix-style Typing Animation -->
+<!-- Blazing Fast Animated Introduction -->
 <p align="center">
-  <a href="https://matrix-code-generator.vercel.app/" target="_blank">
-    <img src="https://matrix-code-generator.vercel.app/api?text=Frontend%20Developer%7CReact%20Specialist%7CPython%20Enthusiast%7CAlways%20Learning&color=00ff00&bgColor=000000&speed=50&fontSize=22&height=100" alt="Matrix Typing" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=500&height=70&lines=%E2%AD%90+Frontend+Developer+Extraordinaire;%F0%9F%A7%A9+React%2FNext.js+Architect;%F0%9F%90%8D+Python+Automation+Expert;%F0%9F%9A%80+Always+Mastering+New+Technologies" alt="Dynamic Typing SVG" />
   </a>
 </p>
 
-<!-- Floating Bio Section with Hover Effects -->
+<!-- Glowing Profile Bio with Enhanced GIF --> 
 <div align="center">
-  <div style="position: relative; display: inline-block;">
-    <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZkcnpwMG9mYWxlcmhsYWkydjkwYW1vbmRucm45bjVnOXgxZXU3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 20px; box-shadow: 0 0 30px #a020f0; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-    <div style="position: absolute; left: 0; top: 50%; transform: translateY(-50%); background: linear-gradient(45deg, #6a18ff, #8218ff); padding: 20px; border-radius: 15px; width: 45%; backdrop-filter: blur(5px);">
-      <p style="color: white; font-size: 1.1em; line-height: 1.6; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-        <span style="font-size: 1.3em; display: block; margin-bottom: 10px;">🚀 Code Alchemist</span>
-        Transforming ideas into digital reality through:<br>
-        • React-powered alchemy<br>
-        • JavaScript wizardry<br>
-        • Python automation magic<br>
-        <span style="display: inline-block; margin-top: 10px; animation: pulse 2s infinite;">✨ Currently conjuring: Next.js & TypeScript spells</span>
-      </p>
-    </div>
+  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZkcnpwMG9mYWxlcmhsYWkydjkwYW1vbmRucm45bjVnOXgxZXU3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 20px; box-shadow: 0 0 30px #a020f0;"/>
+  
+  <div align="left" style="width: 45%; margin-right: 20px;">
+    <h3>🔮 Digital Alchemist</h3>
+    <p>
+      Transforming digital visions into reality with:<br>
+      • React & Next.js sorcery<br>
+      • JavaScript enchantments<br>
+      • Python automation wizardry<br>
+      • Performance optimization magic<br>
+      <br>
+      <b>✨ Currently crafting:</b> Next.js + AI experiences
+    </p>
   </div>
 </div>
 
-<!-- Animated Tech Stack Carousel -->
+<!-- Tech Stack Showcase -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A020F0&background=000000&center=true&vCenter=true&width=600&height=50&lines=Tech+Stack+%7C+React+%7C+TypeScript+%7C+Next.js+%7C+Python+%7C+Node.js+%7C+GraphQL+%7C+Docker+%7C+AWS+%7C+Git+%7C+Jest+%7C+Webpack" alt="Tech Stack Carousel" />
+  <br>
+  <h3>🛠️ Legendary Tech Arsenal 🛠️</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,nodejs,html,css,tailwind,graphql,mongodb,firebase,aws,docker,git&perline=5" alt="Tech Stack" />
 </div>
 
 <!-- Dynamic Shields.io Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Code%20Quality-AAA%2FAAA-8A2BE2?style=for-the-badge&logo=sonarqube&logoColor=white" alt="Code Quality">
-  <img src="https://img.shields.io/badge/Coffee%20Consumed-☕%2052%20cups%20today-8A2BE2?style=for-the-badge" alt="Coffee">
-  <img src="https://img.shields.io/badge/Current%20Project-🚀%20Next.js%20AI%20Platform-8A2BE2?style=for-the-badge" alt="Current Project">
+  <br>
+  <img src="https://img.shields.io/badge/Code%20Quality-AAA%2FAAA-8A2BE2?style=flat-square&logo=sonarqube&logoColor=white" alt="Code Quality">
+  <img src="https://img.shields.io/badge/Coffee%20Consumed-☕%2052%20cups%20today-8A2BE2?style=flat-square" alt="Coffee">
+  <img src="https://img.shields.io/badge/Current%20Project-🚀%20Next.js%20AI%20Platform-8A2BE2?style=flat-square" alt="Current Project">
 </div>
 
 <br>
