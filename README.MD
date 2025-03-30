@@ -233,32 +233,6 @@
 
 <br>
 
-<!-- Life Bar Footer -->
-<div align="center">
-  <table border="0" align="center" style="width: 80%; border-collapse: collapse;">
-    <tr>
-      <td style="text-align: left; padding-right: 10px; color: #C691E9;"><b>⚡ ENERGY</b></td>
-      <td style="width: 80%;">
-        <img src="https://i.imgur.com/QpN5kFm.png" height="20" width="500" alt="Energy Bar">
-      </td>
-      <td style="text-align: right; padding-left: 10px; color: #C691E9;"><b>100%</b></td>
-    </tr>
-    <tr>
-      <td style="text-align: left; padding-right: 10px; color: #C691E9;"><b>🎨 CREATIVITY</b></td>
-      <td style="width: 80%;">
-        <img src="https://i.imgur.com/QpN5kFm.png" height="20" width="500" alt="Creativity Bar">
-      </td>
-      <td style="text-align: right; padding-left: 10px; color: #C691E9;"><b>100%</b></td>
-    </tr>
-    <tr>
-      <td style="text-align: left; padding-right: 10px; color: #C691E9;"><b>💻 WEB SKILLS</b></td>
-      <td style="width: 80%;">
-        <img src="https://i.imgur.com/QpN5kFm.png" height="20" width="500" alt="Web Skills Bar">
-      </td>
-      <td style="text-align: right; padding-left: 10px; color: #C691E9;"><b>100%</b></td>
-    </tr>
-  </table>
-</div>
 
 <!-- Animated Footer with more info -->
 <div align="center">
