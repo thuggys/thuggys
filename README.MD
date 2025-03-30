@@ -131,13 +131,7 @@
 <!-- COOL NEW CONTRIBUTION SECTION -->
 <div align="center">
   <h3>🐍 My Contribution Snake 🐍</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br>
-  <em>This snake eats my contribution graphs! (Powered by <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a>)</em>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br>
@@ -145,50 +139,31 @@
 <!-- 3D CONTRIBUTIONS CALENDAR -->
 <div align="center">
   <h3>📅 GitHub Contribution Calendar 📅</h3>
-  <a href="https://skyline.github.com/thuggys/2024" target="_blank">
+  <a href="https://skyline.github.com/thuggys/2023" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%203D%20Contribution%20Calendar-9833FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
   </a>
-  <br><br>
-  <!-- Calendar Heatmap -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thuggys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&icon_color=C691E9&text_color=FFFFFF&ring_color=C691E9&hide_title=true&include_all_commits=true" alt="contribution calendar"/>
 </div>
-
-<br>
 
 <!-- ISOMETRIC CONTRIBUTION -->
 <div align="center">
   <h3>🏆 Contribution Visualization 🏆</h3>
   
   <!-- Reliable contribution chart -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thuggys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&icon_color=C691E9&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thuggys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&icon_color=C691E9&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuggys&theme=tokyonight&hide_border=true&background=0D1117&ring=C691E9&fire=C691E9&currStreakLabel=C691E9" width="49%" alt="Streak Stats"/>
   
   <br><br>
   
-  <!-- Calendar heatmap -->
-  <img src="https://ghchart.rshah.org/C691E9/thuggys" width="850" alt="GitHub Contribution Chart" />
-  
-  <br>
-  
-  <!-- Interactive contribution links -->
-  <a href="https://skyline.github.com/thuggys/2024" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline%203D%20Contributions-9833FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-  </a>
+  <!-- Top languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thuggys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&text_color=A7A7A7" width="55%" alt="Top Languages" />
 </div>
 
 <br>
 
-<div align="center">
-  <h3>📊 GitHub Activity Stats 📊</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=thuggys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&icon_color=C691E9" alt="stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuggys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&text_color=A7A7A7" alt="top langs" width="49%" />
-</div>
-
-<br>
-
+<!-- GitHub Trophies -->
 <div align="center">
   <h3>🏅 GitHub Achievements 🏅</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=thuggys&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thuggys&theme=discord&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="trophies" />
 </div>
 
 <br>
@@ -196,7 +171,7 @@
 <!-- Activity Graph -->
 <div align="center">
   <h3>📈 Activity Graph 📈</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuggys&theme=tokyo-night&custom_title=My%20Contribution%20Graph&hide_border=true&color=C691E9&line=C691E9&point=7B68EE&area=true&area_color=7B68EE66" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=thuggys&theme=react-dark&hide_border=true&bg_color=0D1117&color=C691E9&line=C691E9&point=FFFFFF" width="95%" alt="Activity Graph"/>
 </div>
 
 <br>
