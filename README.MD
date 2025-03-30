@@ -127,47 +127,48 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- Connect Section -->
+<!-- Connect Section - Retro Game Style -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <!-- Pixelated Divider -->
+  <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_border_1.svg" width="100%">
 </div>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 
-  Let's Connect & Collaborate
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_controller.svg" width="40"> 
+  SELECT YOUR OPTION
+  <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_controller.svg" width="40">
 </h2>
 
 <div align="center">
   <p align="center">
-    <em>I'm always open to discussing web development, collaboration opportunities, or potential projects.</em><br>
-    <em>Feel free to reach out through any of these channels!</em>
+    <em>Ready to start a new quest? Choose an option below to connect!</em><br>
   </p>
 </div>
 
+<!-- Pixelated Contact Options Table -->
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://www.cherrycapitalweb.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-C691E9?style=for-the-badge&logo=Google-Chrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
-          <br><br>
-          <img src="https://img.shields.io/badge/View%20My%20Work-663399?style=flat&labelColor=0D1117" />
+          <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_briefcase.svg" width="60"><br>
+          <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00A8F7?style=for-the-badge&labelColor=black&logoColor=white" alt="Portfolio"/>
         </a>
+        <br><em>(See past levels)</em>
       </td>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://www.cherrycapitalweb.com/#contact" target="_blank">
-          <img src="https://img.shields.io/badge/Contact%20Me-9370DB?style=for-the-badge&logo=Mail.Ru&logoColor=white&labelColor=0D1117" alt="Contact"/>
-          <br><br>
-          <img src="https://img.shields.io/badge/Let's%20Talk-663399?style=flat&labelColor=0D1117" />
+          <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_mail.svg" width="60"><br>
+          <img src="https://img.shields.io/badge/CONTACT_ME-F70074?style=for-the-badge&labelColor=black&logoColor=white" alt="Contact"/>
         </a>
+        <br><em>(Start a dialogue)</em>
       </td>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://github.com/thuggys" target="_blank">
-          <img src="https://img.shields.io/badge/Follow-8A2BE2?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=0D1117" alt="GitHub"/>
-          <br><br>
-          <img src="https://img.shields.io/badge/See%20My%20Repos-663399?style=flat&labelColor=0D1117" />
+          <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_github.svg" width="60"><br>
+          <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-34C759?style=for-the-badge&labelColor=black&logoColor=white" alt="GitHub"/>
         </a>
+        <br><em>(View player stats)</em>
       </td>
     </tr>
   </table>
@@ -175,29 +176,35 @@
 
 <br>
 
+<!-- Email/Schedule Buttons - Pixel Style -->
 <div align="center">
   <a href="mailto:info@cherrycapitalweb.com">
-    <img src="https://img.shields.io/badge/Email%20Me-A020F0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+    <img src="https://img.shields.io/badge/SEND_EMAIL-FFCC00?style=for-the-badge&labelColor=black&logo=gmail&logoColor=white" alt="Email"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.cherrycapitalweb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Schedule%20A%20Call-9932CC?style=for-the-badge&logo=google-meet&logoColor=white&labelColor=0D1117" alt="Schedule"/>
+    <img src="https://img.shields.io/badge/SCHEDULE_CALL-FF9500?style=for-the-badge&labelColor=black&logo=google-meet&logoColor=white" alt="Schedule"/>
   </a>
 </div>
 
 <br>
 
-<!-- Project Inquiry Card -->
+<!-- Pixelated Divider -->
 <div align="center">
-  <table>
+  <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_border_2.svg" width="100%">
+</div>
+
+<!-- Project Inquiry Card - Retro Game Style -->
+<div align="center">
+  <br>
+  <table width="80%" style="border: 3px solid #FFCC00; border-radius: 10px; background-color: #1c1c1c; padding: 15px;">
     <tr>
-      <td>
-        <div style="background: linear-gradient(to right, #9733EE, #DA22FF); padding: 20px; border-radius: 10px; text-align: center;">
-          <h3>🚀 Have a project in mind?</h3>
-          <p>Let's turn your ideas into reality! I specialize in creating modern, responsive websites and web applications.</p>
-          <a href="https://www.cherrycapitalweb.com/#contact">
-            <img src="https://img.shields.io/badge/Get%20In%20Touch-8A2BE2?style=for-the-badge&logo=Mail.Ru&logoColor=white&labelColor=0D1117" alt="Get In Touch"/>
-          </a>
-        </div>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_rocket.svg" width="50"><br>
+        <h3 style="color: #FFCC00; font-family: 'Press Start 2P', monospace;">🚀 NEW PROJECT QUEST? 🚀</h3>
+        <p style="color: #FFFFFF; font-family: 'VT323', monospace; font-size: 16px;">Let's team up to build something awesome! I craft pixel-perfect (and modern!) web experiences.</p>
+        <a href="https://www.cherrycapitalweb.com/#contact">
+          <img src="https://img.shields.io/badge/START_QUEST-FF9500?style=for-the-badge&labelColor=black&logoColor=white" alt="Start Quest"/>
+        </a>
       </td>
     </tr>
   </table>
