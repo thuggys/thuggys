@@ -130,8 +130,14 @@
 
 <!-- COOL NEW CONTRIBUTION SECTION -->
 <div align="center">
-  <h3>🐍 My Contribution Graph Snake 🐍</h3>
-  <img src="https://raw.githubusercontent.com/thuggys/thuggys/output/github-contribution-grid-snake-purple.svg" alt="Snake animation" />
+  <h3>🐍 My Contribution Snake 🐍</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br>
+  <em>This snake eats my contribution graphs! (Powered by <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a>)</em>
 </div>
 
 <br>
