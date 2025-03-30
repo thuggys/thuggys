@@ -127,48 +127,27 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- Connect Section - Retro Game Style -->
+<!-- Connect Section -->
 <div align="center">
-  <!-- Pixelated Divider -->
-  <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_border_1.svg" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_controller.svg" width="40"> 
-  SELECT YOUR OPTION
-  <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_controller.svg" width="40">
-</h2>
-
 <div align="center">
-  <p align="center">
-    <em>Ready to start a new quest? Choose an option below to connect!</em><br>
-  </p>
-</div>
+  <img src="https://fontmeme.com/permalink/240519/2b1cc49c9eb33a8487b303af93460ea7.png" alt="8-bit connect" border="0" width="600">
 
-<!-- Pixelated Contact Options Table -->
-<div align="center">
-  <table>
+  <!-- Pixel Art Characters -->
+  <table border="0" align="center">
     <tr>
-      <td align="center" width="33%">
-        <a href="https://www.cherrycapitalweb.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_briefcase.svg" width="60"><br>
-          <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00A8F7?style=for-the-badge&labelColor=black&logoColor=white" alt="Portfolio"/>
-        </a>
-        <br><em>(See past levels)</em>
+      <td width="100">
+        <img width="100" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" alt="pixel art character"/>
       </td>
-      <td align="center" width="33%">
-        <a href="https://www.cherrycapitalweb.com/#contact" target="_blank">
-          <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_mail.svg" width="60"><br>
-          <img src="https://img.shields.io/badge/CONTACT_ME-F70074?style=for-the-badge&labelColor=black&logoColor=white" alt="Contact"/>
-        </a>
-        <br><em>(Start a dialogue)</em>
+      <td width="700">
+        <div align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=700&lines=I'm+always+open+to+discussing+web+development;projects+and+potential+collaborations!" alt="Retro Typing" />
+        </div>
       </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/thuggys" target="_blank">
-          <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_github.svg" width="60"><br>
-          <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-34C759?style=for-the-badge&labelColor=black&logoColor=white" alt="GitHub"/>
-        </a>
-        <br><em>(View player stats)</em>
+      <td width="100">
+        <img width="100" src="https://user-images.githubusercontent.com/74038190/238200837-de5ffa37-af9f-4603-8211-6949e1d8a647.gif" alt="pixel art character"/>
       </td>
     </tr>
   </table>
@@ -176,36 +155,87 @@
 
 <br>
 
-<!-- Email/Schedule Buttons - Pixel Style -->
+<!-- Game-style Contact Methods -->
 <div align="center">
-  <a href="mailto:info@cherrycapitalweb.com">
-    <img src="https://img.shields.io/badge/SEND_EMAIL-FFCC00?style=for-the-badge&labelColor=black&logo=gmail&logoColor=white" alt="Email"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.cherrycapitalweb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SCHEDULE_CALL-FF9500?style=for-the-badge&labelColor=black&logo=google-meet&logoColor=white" alt="Schedule"/>
-  </a>
+  <table border="0" align="center" style="border-collapse: separate; border-spacing: 20px;">
+    <tr>
+      <td align="center">
+        <a href="https://www.cherrycapitalweb.com/" target="_blank">
+          <img src="https://img.shields.io/badge/L1:+Portfolio-9932CC?style=for-the-badge&logo=alibabacloud&logoColor=white&labelColor=000000" alt="Portfolio"/>
+          <br>
+          <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" alt="Fire Icon">
+          <br>
+          <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/fa09e969a204635.png" height="60" alt="Pixel Art Computer">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.cherrycapitalweb.com/#contact" target="_blank">
+          <img src="https://img.shields.io/badge/L2:+Send+Message-C691E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Message"/>
+          <br>
+          <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" alt="Fire Icon">
+          <br>
+          <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/e77e35e70c1ed9c.png" height="60" alt="Pixel Art Message">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/thuggys" target="_blank">
+          <img src="https://img.shields.io/badge/L3:+GitHub+Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+          <br>
+          <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" alt="Fire Icon">
+          <br>
+          <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/bb9a1c5e5cf3322.png" height="60" alt="Pixel Art GitHub">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<!-- Pixelated Divider -->
+<!-- Game Project Card -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_border_2.svg" width="100%">
+  <table border="0" align="center" style="border: 2px dashed #9933FF; background-color: #0D1117; border-radius: 10px; padding: 10px; width: 80%;">
+    <tr>
+      <td>
+        <div style="text-align: center;">
+          <h3>🎮 Ready Player 2? 🎮</h3>
+          <p style="color: #C691E9;">Let's collaborate on your next web project! I specialize in creating modern, responsive websites and web applications.</p>
+          <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="350">
+          <br>
+          <a href="https://www.cherrycapitalweb.com/#contact">
+            <img src="https://img.shields.io/badge/PRESS+START-8A2BE2?style=for-the-badge&labelColor=000000" alt="Press Start"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Project Inquiry Card - Retro Game Style -->
+<br>
+
+<!-- Life Bar Footer -->
 <div align="center">
-  <br>
-  <table width="80%" style="border: 3px solid #FFCC00; border-radius: 10px; background-color: #1c1c1c; padding: 15px;">
+  <table border="0" style="width: 80%; border-collapse: collapse;">
     <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/YuheiNakasaka/github-pixel-stats/main/images/pixel_rocket.svg" width="50"><br>
-        <h3 style="color: #FFCC00; font-family: 'Press Start 2P', monospace;">🚀 NEW PROJECT QUEST? 🚀</h3>
-        <p style="color: #FFFFFF; font-family: 'VT323', monospace; font-size: 16px;">Let's team up to build something awesome! I craft pixel-perfect (and modern!) web experiences.</p>
-        <a href="https://www.cherrycapitalweb.com/#contact">
-          <img src="https://img.shields.io/badge/START_QUEST-FF9500?style=for-the-badge&labelColor=black&logoColor=white" alt="Start Quest"/>
-        </a>
+      <td style="text-align: left; padding-right: 10px;">ENERGY</td>
+      <td style="width: 80%;">
+        <img src="https://progress-bar.dev/100/?width=500&color=A020F0" alt="Energy Bar">
       </td>
+      <td style="text-align: right; padding-left: 10px;">100%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-right: 10px;">CREATIVITY</td>
+      <td style="width: 80%;">
+        <img src="https://progress-bar.dev/100/?width=500&color=8A2BE2" alt="Creativity Bar">
+      </td>
+      <td style="text-align: right; padding-left: 10px;">100%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-right: 10px;">WEB SKILLS</td>
+      <td style="width: 80%;">
+        <img src="https://progress-bar.dev/100/?width=500&color=9933FF" alt="Web Skills Bar">
+      </td>
+      <td style="text-align: right; padding-left: 10px;">100%</td>
     </tr>
   </table>
 </div>
