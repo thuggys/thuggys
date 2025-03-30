@@ -304,7 +304,7 @@
 <!-- Made With Section -->
 <div align="center">
   <sub>
-    <em>Made with ❤️ and 🔮 by thuggys | Last updated: <span id="date">May 2024</span></em>
+    <em>Made with ❤️ and 🔮 by thuggys | Last updated: <span id="date">March 2025</span></em>
   </sub>
 </div>
 
