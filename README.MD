@@ -139,7 +139,9 @@
 <!-- 3D CONTRIBUTIONS CALENDAR -->
 <div align="center">
   <h3>📅 3D Contribution Calendar 📅</h3>
-  <img src="https://github-readme-3d-calendar.vercel.app/api/profile?username=thuggys&theme=purple" alt="3D Contribution Calendar" />
+  <img src="https://skyline.github.com/thuggys/2024" alt="3D Contribution Calendar" width="600" />
+  <br>
+  <em><a href="https://skyline.github.com/thuggys/2024" target="_blank">Interactive 3D GitHub Contribution Calendar (powered by GitHub Skyline)</a></em>
 </div>
 
 <br>
@@ -147,8 +149,8 @@
 <!-- ISOMETRIC CONTRIBUTION -->
 <div align="center">
   <h3>🏆 Isometric Contribution Chart 🏆</h3>
-  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
-    <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions"/>
+  <a href="https://github.com/thuggys/thuggys/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="900" src="https://raw.githubusercontent.com/thuggys/thuggys/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions"/>
   </a>
 </div>
 
