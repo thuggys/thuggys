@@ -1,10 +1,10 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="URL_TO_YOUR_AWESOME_HEADER_GIF" alt="Animated Header" width="600"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Animated Header" width="600"/>
 </p>
 
 <!-- Waving Hand GIF -->
-<h1 align="center">Hi there, I'm [Your Name] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi there, I'm thuggys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <!-- Your Awesome Bio (Pick one we liked or modify!) -->
 <p align="center">
@@ -32,7 +32,7 @@
 <!-- Optional: Activity Graph -->
 <!-- Example using https://github.com/ashutosh00710/github-readme-activity-graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuggys&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -58,8 +58,8 @@
 <!-- GitHub Readme Stats - Replace 'your-username' -->
 <!-- Customize themes here: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thuggys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuggys&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
@@ -76,5 +76,5 @@
 
 <!-- Footer GIF -->
 <p align="center">
-  <img src="URL_TO_YOUR_COOL_FOOTER_GIF" alt="Animated Footer" width="400"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Animated Footer" width="400"/>
 </p>
