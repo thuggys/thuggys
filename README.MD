@@ -165,7 +165,13 @@
           <br>
           <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" alt="Fire Icon">
           <br>
-          <img src="https://user-images.githubusercontent.com/74038190/216125640-2783eae5-094a-4e59-bedd-fc95a0e625d5.png" width="80" alt="Pixel Art Computer">
+          <!-- Computer SVG -->
+          <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="2" y="4" width="20" height="12" fill="#8A2BE2" rx="1" />
+            <rect x="4" y="6" width="16" height="8" fill="#000000" rx="1" />
+            <rect x="7" y="16" width="10" height="2" fill="#8A2BE2" />
+            <rect x="6" y="18" width="12" height="2" fill="#9933FF" />
+          </svg>
         </a>
       </td>
       <td align="center">
@@ -174,7 +180,14 @@
           <br>
           <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" alt="Fire Icon">
           <br>
-          <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="80" alt="Pixel Art Message">
+          <!-- Message SVG -->
+          <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="2" y="4" width="20" height="16" fill="#9370DB" rx="2" />
+            <path d="M2 6L12 14L22 6" stroke="#C691E9" stroke-width="2" />
+            <line x1="2" y1="18" x2="9" y2="12" stroke="#C691E9" stroke-width="1" />
+            <line x1="22" y1="18" x2="15" y2="12" stroke="#C691E9" stroke-width="1" />
+            <rect x="8" y="11" width="8" height="2" fill="#000000" />
+          </svg>
         </a>
       </td>
       <td align="center">
@@ -183,7 +196,12 @@
           <br>
           <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" alt="Fire Icon">
           <br>
-          <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" alt="GitHub Icon">
+          <!-- GitHub SVG -->
+          <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.477 2 2 6.477 2 12C2 16.418 4.865 20.166 8.839 21.489C9.339 21.581 9.521 21.278 9.521 21.012C9.521 20.775 9.512 20.016 9.512 19.152C7 19.613 6.35 18.539 6.15 17.975C6.037 17.688 5.55 16.8 5.125 16.563C4.775 16.375 4.275 15.914 5.113 15.901C5.9 15.888 6.463 16.625 6.65 16.925C7.55 18.437 8.988 18.012 9.562 17.75C9.654 17.1 9.929 16.663 10.225 16.413C8.05 16.163 5.8 15.3 5.8 11.475C5.8 10.387 6.2 9.488 6.675 8.788C6.575 8.538 6.213 7.488 6.775 6.125C6.775 6.125 7.613 5.863 9.525 7.149C10.325 6.925 11.175 6.813 12.025 6.813C12.875 6.813 13.725 6.925 14.525 7.149C16.438 5.851 17.275 6.125 17.275 6.125C17.838 7.488 17.475 8.538 17.375 8.788C17.85 9.488 18.25 10.375 18.25 11.475C18.25 15.313 16 16.163 13.825 16.413C14.2 16.725 14.513 17.325 14.513 18.263C14.513 19.6 14.5 20.675 14.5 21.013C14.5 21.275 14.688 21.587 15.188 21.487C19.137 20.165 22 16.418 22 12C22 6.477 17.523 2 12 2Z" fill="#9370DB"/>
+            <circle cx="9" cy="9" r="1.5" fill="#C691E9"/>
+            <circle cx="15" cy="9" r="1.5" fill="#C691E9"/>
+          </svg>
         </a>
       </td>
     </tr>
