@@ -1,4 +1,10 @@
-
+<!-- Header - Enhanced Dynamic Banner -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=thuggys%20//%20Web%20Developer&fontColor=d6ace6&animation=fadeIn&fontAlignY=38&desc=Building%20Extraordinary%20Web%20Experiences&descAlignY=55&descSize=18&fontSize=40&strokeWidth=1&stroke=7f18a6">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=thuggys%20//%20Web%20Developer&fontColor=d6ace6&animation=fadeIn&fontAlignY=38&desc=Building%20Extraordinary%20Web%20Experiences&descAlignY=55&descSize=18&fontSize=40&strokeWidth=1&stroke=7f18a6" alt="header">
+  </picture>
+</div>
 
 <!-- Blazing Fast Animated Introduction -->
 <p align="center">
