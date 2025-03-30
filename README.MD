@@ -128,16 +128,49 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 </h2>
 
+<!-- COOL NEW CONTRIBUTION SECTION -->
 <div align="center">
+  <h3>🐍 My Contribution Graph Snake 🐍</h3>
+  <img src="https://raw.githubusercontent.com/thuggys/thuggys/output/github-contribution-grid-snake-purple.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+<!-- 3D CONTRIBUTIONS CALENDAR -->
+<div align="center">
+  <h3>📅 3D Contribution Calendar 📅</h3>
+  <img src="https://github-readme-3d-calendar.vercel.app/api/profile?username=thuggys&theme=purple" alt="3D Contribution Calendar" />
+</div>
+
+<br>
+
+<!-- ISOMETRIC CONTRIBUTION -->
+<div align="center">
+  <h3>🏆 Isometric Contribution Chart 🏆</h3>
+  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🔥 Contribution Streak Stats 🔥</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuggys&theme=tokyonight&hide_border=true&background=0D1117&ring=C691E9&fire=C691E9&currStreakLabel=C691E9" alt="streak stats"/>
 </div>
 
+<br>
+
 <div align="center">
+  <h3>📊 GitHub Activity Stats 📊</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=thuggys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&icon_color=C691E9" alt="stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuggys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&text_color=A7A7A7" alt="top langs" width="49%" />
 </div>
 
+<br>
+
 <div align="center">
+  <h3>🏅 GitHub Achievements 🏅</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=thuggys&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="trophies" />
 </div>
 
@@ -145,6 +178,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
+  <h3>📈 Activity Graph 📈</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuggys&theme=tokyo-night&custom_title=My%20Contribution%20Graph&hide_border=true&color=C691E9&line=C691E9&point=7B68EE&area=true&area_color=7B68EE66" width="100%"/>
 </div>
 
