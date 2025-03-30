@@ -157,10 +157,35 @@
 
 <!-- ISOMETRIC CONTRIBUTION -->
 <div align="center">
-  <h3>🏆 Isometric Contribution Chart 🏆</h3>
-  <a href="https://github.com/thuggys/thuggys/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <img width="900" src="https://raw.githubusercontent.com/thuggys/thuggys/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions"/>
+  <h3>🏆 Contribution Visualization 🏆</h3>
+  
+  <!-- Glowing contribution grid -->
+  <a href="https://github.com/thuggys">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuggys&bg_color=0D1117&color=A77BCA&line=916BBF&point=C996CC&area=true&area_color=8A2BE280&hide_border=true" width="100%" alt="Contribution graph" />
   </a>
+
+  <br>
+  
+  <!-- Calendar heatmap -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ashutosh00710/github-readme-activity-graph@master/asset/Night-City.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ashutosh00710/github-readme-activity-graph@master/asset/Night-City.png">
+    <img src="https://ghchart.rshah.org/C691E9/thuggys" width="850" alt="GitHub Contribution Chart" />
+  </picture>
+  
+  <br>
+  
+  <!-- Interactive contribution mention -->
+  <a href="https://heatmap.toolium.info/thuggys" target="_blank">
+    <img src="https://img.shields.io/badge/Interactive%20Contribution%20Heatmap-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Interactive Heatmap"/>
+  </a>
+  
+  <br><br>
+  
+  <details align="center">
+    <summary><strong>📈 Detailed Contribution Breakdown</strong></summary>
+    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=thuggys&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&text_color=FFFFFF&combine_all_yearly_contributions=true&column=number&metric=commits" alt="Contribution Breakdown" />
+  </details>
 </div>
 
 <br>
