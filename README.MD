@@ -159,33 +159,25 @@
 <div align="center">
   <h3>🏆 Contribution Visualization 🏆</h3>
   
-  <!-- Glowing contribution grid -->
-  <a href="https://github.com/thuggys">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuggys&bg_color=0D1117&color=A77BCA&line=916BBF&point=C996CC&area=true&area_color=8A2BE280&hide_border=true" width="100%" alt="Contribution graph" />
-  </a>
-
-  <br>
-  
-  <!-- Calendar heatmap -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ashutosh00710/github-readme-activity-graph@master/asset/Night-City.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ashutosh00710/github-readme-activity-graph@master/asset/Night-City.png">
-    <img src="https://ghchart.rshah.org/C691E9/thuggys" width="850" alt="GitHub Contribution Chart" />
-  </picture>
-  
-  <br>
-  
-  <!-- Interactive contribution mention -->
-  <a href="https://heatmap.toolium.info/thuggys" target="_blank">
-    <img src="https://img.shields.io/badge/Interactive%20Contribution%20Heatmap-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Interactive Heatmap"/>
+  <!-- Isometric 3D contribution chart -->
+  <a href="https://metrics.lecoq.io/thuggys?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FNew_York&config.animated=true">
+    <img width="70%" src="https://metrics.lecoq.io/thuggys?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FNew_York&config.animated=true" alt="3D Isometric Contribution Calendar"/>
   </a>
   
   <br><br>
   
-  <details align="center">
-    <summary><strong>📈 Detailed Contribution Breakdown</strong></summary>
-    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=thuggys&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&text_color=FFFFFF&combine_all_yearly_contributions=true&column=number&metric=commits" alt="Contribution Breakdown" />
-  </details>
+  <!-- Calendar heatmap -->
+  <img src="https://ghchart.rshah.org/C691E9/thuggys" width="850" alt="GitHub Contribution Chart" />
+  
+  <br>
+  
+  <!-- Interactive contribution links -->
+  <a href="https://skyline.github.com/thuggys/2024" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline%203D%20Contributions-9833FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+  </a>&nbsp;
+  <a href="https://github-profile-trophy.vercel.app/?username=thuggys&theme=discord&row=1&column=6&margin-w=15&margin-h=15" target="_blank">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Trophies-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 <br>
