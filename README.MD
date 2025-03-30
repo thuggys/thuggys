@@ -24,37 +24,32 @@
   </a>
 </p>
 
-<!-- Glowing Profile Bio with Enhanced GIF --> 
+<!-- Digital Alchemist Section - Simple & Compatible --> 
 <div align="center">
-  <!-- Digital Alchemist Section - GitHub Compatible -->
-  <div>
-    <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="350" alt="IT Crowd PC on Fire" />
-    
-    <h2>⚗️ <span style="color: #9370DB; font-weight: bold;">DIGITAL ALCHEMIST</span> ⚗️</h2>
-    
-    <p>Transforming digital visions into reality with mystical coding powers</p>
-    
-    <table>
-      <tr>
-        <td align="center">
-          <h3>⚛️ React & Next.js sorcery ✨</h3>
-        </td>
-        <td align="center">
-          <h3>🪄 JavaScript enchantments 🔥</h3>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <h3>🐍 Python automation wizardry 🧙‍♂️</h3>
-        </td>
-        <td align="center">
-          <h3>🚀 Performance optimization magic ⚡</h3>
-        </td>
-      </tr>
-    </table>
-    
-    <h3>✨ Currently brewing: <span style="color: #9370DB;">being lazy af</span> 😴</h3>
-  </div>
+  <h2>⚗️ <span style="color: #9370DB; font-weight: bold;">DIGITAL ALCHEMIST</span> ⚗️</h2>
+  
+  <p>Transforming digital visions into reality with mystical coding powers</p>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <h3>⚛️ React & Next.js sorcery ✨</h3>
+      </td>
+      <td align="center">
+        <h3>🪄 JavaScript enchantments 🔥</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>🐍 Python automation wizardry 🧙‍♂️</h3>
+      </td>
+      <td align="center">
+        <h3>🚀 Performance optimization magic ⚡</h3>
+      </td>
+    </tr>
+  </table>
+  
+  <h3>✨ Currently brewing: <span style="color: #9370DB;">being lazy af</span> 😴</h3>
 </div>
 
 <!-- Tech Stack Showcase -->
