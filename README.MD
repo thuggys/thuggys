@@ -7,7 +7,7 @@
           <span style="background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00); -webkit-background-clip: text; color: transparent; font-weight: bold;">THUGGYS // WEB DEVELOPER</span>
         </h1>
         <div>
-          <img src="https://draginol.stardock.net/images/islanddog/PC-images_ED23/itcrowdpcfire.gif" alt="IT Crowd PC on Fire" style="max-width: 350px; border-radius: 10px; box-shadow: 0 0 20px #ff4500; margin: 15px 0;" />
+          <img src="https://media1.tenor.com/m/4f3vfXYUjlYAAAAd/it-crowd-moss.gif" alt="IT Crowd PC on Fire" style="max-width: 350px; border-radius: 10px; box-shadow: 0 0 20px #ff4500; margin: 15px 0;" />
         </div>
         <p style="color: #ff9e00; font-size: 20px; margin-top: 10px;">
           <span style="background-image: linear-gradient(to right, #ff7f00, #ffff00, #ff7f00); -webkit-background-clip: text; color: transparent; font-weight: bold;">Building Websites That Are Literally 🔥</span>
