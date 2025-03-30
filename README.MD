@@ -1,10 +1,4 @@
-<!-- Header - Enhanced Dynamic Banner -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=thuggys%20//%20Web%20Developer&fontColor=d6ace6&animation=fadeIn&fontAlignY=38&desc=Building%20Extraordinary%20Web%20Experiences&descAlignY=55&descSize=18&fontSize=40&strokeWidth=1&stroke=7f18a6">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=thuggys%20//%20Web%20Developer&fontColor=d6ace6&animation=fadeIn&fontAlignY=38&desc=Building%20Extraordinary%20Web%20Experiences&descAlignY=55&descSize=18&fontSize=40&strokeWidth=1&stroke=7f18a6" alt="header">
-  </picture>
-</div>
+
 
 <!-- Blazing Fast Animated Introduction -->
 <p align="center">
@@ -15,7 +9,7 @@
 
 <!-- Glowing Profile Bio with Enhanced GIF --> 
 <div align="center">
-  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZkcnpwMG9mYWxlcmhsYWkydjkwYW1vbmRucm45bjVnOXgxZXU3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 20px; box-shadow: 0 0 30px #a020f0;"/>
+  <img align="right" height="250" width="400" alt="PC on fire GIF" src="https://draginol.stardock.net/images/islanddog/PC-images_ED23/itcrowdpcfire.gif" style="border-radius: 20px; box-shadow: 0 0 30px #ff4500;"/>
   
   <div align="left" style="width: 45%; margin-right: 20px;">
     <h3>🔮 <span style="background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); -webkit-background-clip: text; color: transparent; font-weight: bold;">Digital Alchemist</span> 🌈</h3>
