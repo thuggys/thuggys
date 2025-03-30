@@ -156,32 +156,99 @@
 </p>
 
 <!-- Connect Section -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 
-  Let's Connect
+  Let's Connect & Collaborate
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 </h2>
 
 <div align="center">
-  <a href="https://www.cherrycapitalweb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-C691E9?style=for-the-badge&logo=Google-Chrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="https://www.cherrycapitalweb.com/#contact" target="_blank">
-    <img src="https://img.shields.io/badge/Contact%20Me-9370DB?style=for-the-badge&logo=Mail.Ru&logoColor=white&labelColor=0D1117" alt="Contact"/>
-  </a>&nbsp;
+  <p align="center">
+    <em>I'm always open to discussing web development, collaboration opportunities, or potential projects.</em><br>
+    <em>Feel free to reach out through any of these channels!</em>
+  </p>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.cherrycapitalweb.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-C691E9?style=for-the-badge&logo=Google-Chrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+          <br><br>
+          <img src="https://img.shields.io/badge/View%20My%20Work-663399?style=flat&labelColor=0D1117" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.cherrycapitalweb.com/#contact" target="_blank">
+          <img src="https://img.shields.io/badge/Contact%20Me-9370DB?style=for-the-badge&logo=Mail.Ru&logoColor=white&labelColor=0D1117" alt="Contact"/>
+          <br><br>
+          <img src="https://img.shields.io/badge/Let's%20Talk-663399?style=flat&labelColor=0D1117" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/thuggys" target="_blank">
+          <img src="https://img.shields.io/badge/Follow-8A2BE2?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+          <br><br>
+          <img src="https://img.shields.io/badge/See%20My%20Repos-663399?style=flat&labelColor=0D1117" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<!-- Footer -->
+<div align="center">
+  <a href="mailto:info@cherrycapitalweb.com">
+    <img src="https://img.shields.io/badge/Email%20Me-A020F0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.cherrycapitalweb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule%20A%20Call-9932CC?style=for-the-badge&logo=google-meet&logoColor=white&labelColor=0D1117" alt="Schedule"/>
+  </a>
+</div>
+
+<br>
+
+<!-- Project Inquiry Card -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div style="background: linear-gradient(to right, #9733EE, #DA22FF); padding: 20px; border-radius: 10px; text-align: center;">
+          <h3>🚀 Have a project in mind?</h3>
+          <p>Let's turn your ideas into reality! I specialize in creating modern, responsive websites and web applications.</p>
+          <a href="https://www.cherrycapitalweb.com/#contact">
+            <img src="https://img.shields.io/badge/Get%20In%20Touch-8A2BE2?style=for-the-badge&logo=Mail.Ru&logoColor=white&labelColor=0D1117" alt="Get In Touch"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Animated Footer with more info -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=9818ff,8d18ff,8218ff,6a18ff,5718ff&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=d6ace6&animation=twinkling&fontAlignY=72">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=9818ff,8d18ff,8218ff,6a18ff,5718ff&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=d6ace6&animation=twinkling&fontAlignY=72" alt="footer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=9818ff,8d18ff,8218ff,6a18ff,5718ff&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=d6ace6&animation=twinkling&fontAlignY=65&desc=Let's%20create%20something%20amazing%20together!&descSize=14&descAlignY=88">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=9818ff,8d18ff,8218ff,6a18ff,5718ff&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=d6ace6&animation=twinkling&fontAlignY=65&desc=Let's%20create%20something%20amazing%20together!&descSize=14&descAlignY=88" alt="footer">
   </picture>
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=thuggys&style=for-the-badge&color=blueviolet" alt="profile views" />
+</div>
+
+<!-- Made With Section -->
+<div align="center">
+  <sub>
+    <em>Made with ❤️ and 🔮 by thuggys | Last updated: <span id="date">May 2024</span></em>
+  </sub>
 </div>
 
