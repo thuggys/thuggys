@@ -7,7 +7,7 @@
           <span style="background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00); -webkit-background-clip: text; color: transparent; font-weight: bold;">THUGGYS // WEB DEVELOPER</span>
         </h1>
         <div>
-          <img src="https://media1.tenor.com/m/4f3vfXYUjlYAAAAd/it-crowd-moss.gif" alt="IT Crowd PC on Fire" style="max-width: 350px; border-radius: 10px; box-shadow: 0 0 20px #ff4500; margin: 15px 0;" />
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZsZHhpa2Z3ZXRvNWtmbWU4M3B1ZGswaXc1dDdmNWt5aGUxaXF1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dbtDDSvWErdf2/giphy.gif" alt="IT Crowd PC on Fire" style="max-width: 350px; border-radius: 10px; box-shadow: 0 0 20px #ff4500; margin: 15px 0;" />
         </div>
         <p style="color: #ff9e00; font-size: 20px; margin-top: 10px;">
           <span style="background-image: linear-gradient(to right, #ff7f00, #ffff00, #ff7f00); -webkit-background-clip: text; color: transparent; font-weight: bold;">Building Websites That Are Literally 🔥</span>
