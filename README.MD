@@ -196,14 +196,16 @@
 <div align="center">
   <table border="0" align="center" style="border: 2px dashed #9933FF; background-color: #0D1117; border-radius: 10px; padding: 10px; width: 80%;">
     <tr>
-      <td>
+      <td align="center">
         <div style="text-align: center;">
           <h3>🎮 Ready Player 2? 🎮</h3>
           <p style="color: #C691E9;">Let's collaborate on your next web project! I specialize in creating modern, responsive websites and web applications.</p>
-          <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="350">
+          <div align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="350">
+          </div>
           <br>
           <a href="https://www.cherrycapitalweb.com/#contact">
-            <img src="https://img.shields.io/badge/PRESS+START-8A2BE2?style=for-the-badge&labelColor=000000" alt="Press Start"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&color=DDA0DD&center=true&vCenter=true&repeat=false&width=280&height=40&lines=PRESS+START" alt="Press Start Button" style="border: 3px solid; border-image: linear-gradient(45deg, purple, indigo, blue, green, yellow, orange, red) 1; border-radius: 10px;"/>
           </a>
         </div>
       </td>
@@ -215,27 +217,27 @@
 
 <!-- Life Bar Footer -->
 <div align="center">
-  <table border="0" style="width: 80%; border-collapse: collapse;">
+  <table border="0" align="center" style="width: 80%; border-collapse: collapse;">
     <tr>
-      <td style="text-align: left; padding-right: 10px;">ENERGY</td>
+      <td style="text-align: left; padding-right: 10px; color: #C691E9;"><b>⚡ ENERGY</b></td>
       <td style="width: 80%;">
-        <img src="https://progress-bar.dev/100/?width=500&color=A020F0" alt="Energy Bar">
+        <img src="https://i.imgur.com/QpN5kFm.png" height="20" width="500" alt="Energy Bar">
       </td>
-      <td style="text-align: right; padding-left: 10px;">100%</td>
+      <td style="text-align: right; padding-left: 10px; color: #C691E9;"><b>100%</b></td>
     </tr>
     <tr>
-      <td style="text-align: left; padding-right: 10px;">CREATIVITY</td>
+      <td style="text-align: left; padding-right: 10px; color: #C691E9;"><b>🎨 CREATIVITY</b></td>
       <td style="width: 80%;">
-        <img src="https://progress-bar.dev/100/?width=500&color=8A2BE2" alt="Creativity Bar">
+        <img src="https://i.imgur.com/QpN5kFm.png" height="20" width="500" alt="Creativity Bar">
       </td>
-      <td style="text-align: right; padding-left: 10px;">100%</td>
+      <td style="text-align: right; padding-left: 10px; color: #C691E9;"><b>100%</b></td>
     </tr>
     <tr>
-      <td style="text-align: left; padding-right: 10px;">WEB SKILLS</td>
+      <td style="text-align: left; padding-right: 10px; color: #C691E9;"><b>💻 WEB SKILLS</b></td>
       <td style="width: 80%;">
-        <img src="https://progress-bar.dev/100/?width=500&color=9933FF" alt="Web Skills Bar">
+        <img src="https://i.imgur.com/QpN5kFm.png" height="20" width="500" alt="Web Skills Bar">
       </td>
-      <td style="text-align: right; padding-left: 10px;">100%</td>
+      <td style="text-align: right; padding-left: 10px; color: #C691E9;"><b>100%</b></td>
     </tr>
   </table>
 </div>
