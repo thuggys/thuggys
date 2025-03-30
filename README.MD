@@ -3,13 +3,28 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Animated Header" width="600"/>
 </p>
 
-<!-- Waving Hand GIF -->
-<h1 align="center">Hi there, I'm thuggys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<!-- Rainbow Border for the whole profile -->
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Groovy Rainbow Separator" width="100%">
+</div>
+
+<!-- Waving Hand GIF with 70s style title -->
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    ☮️ Far Out! I'm thuggys ☮️
+  </span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!-- Your Awesome Bio (Pick one we liked or modify!) -->
 <p align="center">
   <em>🔥 Passionate self-employed Web Developer | Crafting modern web experiences with React <0xF0><0x9F><0xA7><0xAD> & JavaScript | Also exploring the world of Python 🐍 | Dedicated to lifelong learning and discovering new tech daily 🌱✨</em>
 </p>
+
+<!-- Groovy Border -->
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Groovy Rainbow Separator" width="100%">
+</div>
 
 <!-- Optional: Typing Animation (using external service) -->
 <!-- Example using https://github.com/DenverCoder1/readme-typing-svg -->
@@ -18,24 +33,24 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Building+interactive+web+apps;Solving+problems+with+code;Constantly+learning+new+tech;Freelancing+%26+Collaborating" alt="Typing SVG" /></a>
 </p>
 
----
+<!-- Psychedelic Rainbow Separator -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-## 🚀 What I'm Currently Up To
+## 🚀 Active Development & Learning
 
-*   🔭 Working on [Project Name/Type] using [Tech Stack]...
-*   🌱 Learning about [New Technology/Language]!
-*   👯 Looking to collaborate on [Type of Project/Open Source].
-*   🤔 Seeking help with [Specific Challenge/Topic].
-*   💬 Ask me about React, JavaScript, Python, or freelancing!
-*   ⚡ Fun fact: [Insert a fun, quirky fact about yourself or your interests]
+*   🔭 **Building:** Actively developing client projects & personal experiments with React & Python.
+*   🌱 **Learning:** Currently focused on mastering NextJS, TypeScript and GraphQL.
+*   🤝 **Collaborating:** Open to contributions and partnerships on innovative web projects.
+*   💡 **Exploring:** Investigating solutions for modern web app optimization and UX improvements.
+*   💬 **Ask Away:** Questions about React, JS, Python, or freelancing? Hit me up!
+*   ⚡ **Fun Fact:** I can't start my day without listening to classic 70s rock while coding!
 
-<!-- Optional: Activity Graph -->
-<!-- Example using https://github.com/ashutosh00710/github-readme-activity-graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuggys&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
+<!-- Groovy Border -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ## 🛠️ My Tech Stack & Tools
 
@@ -51,16 +66,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
 </p>
 
----
+<!-- Rainbow Separator -->
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Groovy Rainbow Separator" width="100%">
+</div>
 
 ## ✨ My Services
 
-*   🎨 **Custom Web Design:** Building modern, responsive websites tailored to your brand.
-*   🚀 **Performance Optimization:** Ensuring your site is fast and efficient.
-*   🔍 **SEO Optimization:** Helping your business get found on Google.
-*   💻 **Custom Development:** Bringing unique web features to life.
+*   <span style="color:#FF0000">🎨</span> **<span style="color:#FF7F00">C</span><span style="color:#FFFF00">u</span><span style="color:#00FF00">s</span><span style="color:#0000FF">t</span><span style="color:#4B0082">o</span><span style="color:#8B00FF">m</span> Web Design:** Building modern, responsive websites tailored to your brand.
+*   <span style="color:#FF0000">🚀</span> **<span style="color:#FF7F00">P</span><span style="color:#FFFF00">e</span><span style="color:#00FF00">r</span><span style="color:#0000FF">f</span><span style="color:#4B0082">o</span><span style="color:#8B00FF">r</span><span style="color:#FF0000">m</span><span style="color:#FF7F00">a</span><span style="color:#FFFF00">n</span><span style="color:#00FF00">c</span><span style="color:#0000FF">e</span> Optimization:** Ensuring your site is fast and efficient.
+*   <span style="color:#FF0000">🔍</span> **<span style="color:#FF7F00">S</span><span style="color:#FFFF00">E</span><span style="color:#00FF00">O</span> Optimization:** Helping your business get found on Google.
+*   <span style="color:#FF0000">💻</span> **<span style="color:#FF7F00">C</span><span style="color:#FFFF00">u</span><span style="color:#00FF00">s</span><span style="color:#0000FF">t</span><span style="color:#4B0082">o</span><span style="color:#8B00FF">m</span> Development:** Bringing unique web features to life.
 
----
+<!-- Rainbow Separator -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ## 🏆 GitHub Trophy
 
@@ -71,8 +92,6 @@
   </a>
 </p>
 
----
-
 ## 📊 My GitHub Stats
 
 <!-- GitHub Readme Stats - Replace 'your-username' -->
@@ -81,8 +100,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thuggys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuggys&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
-
----
 
 ## 📫 Let's Connect!
 
@@ -94,7 +111,17 @@
   <!-- <a href="[YOUR_TWITTER_URL]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp; -->
 </p>
 
+<!-- Rainbow Footer -->
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Groovy Rainbow Separator" width="100%">
+</div>
+
 <!-- Footer GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Animated Footer" width="400"/>
+</p>
+
+<!-- Peace Sign -->
+<p align="center">
+  ☮️ Peace, Love, and Code ☮️
 </p>
