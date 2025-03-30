@@ -165,7 +165,7 @@
           <br>
           <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" alt="Fire Icon">
           <br>
-          <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/fa09e969a204635.png" height="60" alt="Pixel Art Computer">
+          <img src="https://user-images.githubusercontent.com/74038190/216125640-2783eae5-094a-4e59-bedd-fc95a0e625d5.png" width="80" alt="Pixel Art Computer">
         </a>
       </td>
       <td align="center">
@@ -174,7 +174,7 @@
           <br>
           <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" alt="Fire Icon">
           <br>
-          <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/e77e35e70c1ed9c.png" height="60" alt="Pixel Art Message">
+          <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="80" alt="Pixel Art Message">
         </a>
       </td>
       <td align="center">
@@ -183,7 +183,7 @@
           <br>
           <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" alt="Fire Icon">
           <br>
-          <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/bb9a1c5e5cf3322.png" height="60" alt="Pixel Art GitHub">
+          <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" alt="GitHub Icon">
         </a>
       </td>
     </tr>
