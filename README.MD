@@ -158,7 +158,12 @@
 </div>
 
 <div align="center">
-  <img src="https://fontmeme.com/permalink/240519/2b1cc49c9eb33a8487b303af93460ea7.png" alt="8-bit connect" border="0" width="600">
+  <!-- Custom 8-bit header instead of fontmeme -->
+  <h2>
+    <a href="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=500&lines=CONNECT+WITH+ME" target="_blank">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=500&height=70&lines=CONNECT+WITH+ME" alt="8-bit connect" />
+    </a>
+  </h2>
 
   <!-- Pixel Art Characters -->
   <table border="0" align="center">
