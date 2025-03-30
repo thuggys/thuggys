@@ -159,10 +159,9 @@
 <div align="center">
   <h3>🏆 Contribution Visualization 🏆</h3>
   
-  <!-- Isometric 3D contribution chart -->
-  <a href="https://metrics.lecoq.io/thuggys?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FNew_York&config.animated=true">
-    <img width="70%" src="https://metrics.lecoq.io/thuggys?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FNew_York&config.animated=true" alt="3D Isometric Contribution Calendar"/>
-  </a>
+  <!-- Reliable contribution chart -->
+  <img src="https://github-readme-stats.vercel.app/api?username=thuggys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&icon_color=C691E9&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuggys&theme=tokyonight&hide_border=true&background=0D1117&ring=C691E9&fire=C691E9&currStreakLabel=C691E9" width="49%" alt="Streak Stats"/>
   
   <br><br>
   
@@ -174,17 +173,7 @@
   <!-- Interactive contribution links -->
   <a href="https://skyline.github.com/thuggys/2024" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Skyline%203D%20Contributions-9833FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-  </a>&nbsp;
-  <a href="https://github-profile-trophy.vercel.app/?username=thuggys&theme=discord&row=1&column=6&margin-w=15&margin-h=15" target="_blank">
-    <img src="https://img.shields.io/badge/View%20GitHub%20Trophies-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Trophies"/>
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🔥 Contribution Streak Stats 🔥</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuggys&theme=tokyonight&hide_border=true&background=0D1117&ring=C691E9&fire=C691E9&currStreakLabel=C691E9" alt="streak stats"/>
 </div>
 
 <br>
