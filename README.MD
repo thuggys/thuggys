@@ -1,9 +1,20 @@
-<!-- Header - Enhanced Dynamic Banner -->
+<!-- Fiery Header Banner -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=thuggys%20//%20Web%20Developer&fontColor=d6ace6&animation=fadeIn&fontAlignY=38&desc=Building%20Extraordinary%20Web%20Experiences&descAlignY=55&descSize=18&fontSize=40&strokeWidth=1&stroke=7f18a6">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=thuggys%20//%20Web%20Developer&fontColor=d6ace6&animation=fadeIn&fontAlignY=38&desc=Building%20Extraordinary%20Web%20Experiences&descAlignY=55&descSize=18&fontSize=40&strokeWidth=1&stroke=7f18a6" alt="header">
-  </picture>
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none; background: linear-gradient(90deg, #2b0245, #000000, #2b0245); width: 100%; border-radius: 10px; margin-bottom: 20px;">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <h1 style="font-size: 40px; color: #ff9e00; text-shadow: 0 0 10px #ff4500; margin-bottom: 10px;">
+          <span style="background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00); -webkit-background-clip: text; color: transparent; font-weight: bold;">THUGGYS // WEB DEVELOPER</span>
+        </h1>
+        <div>
+          <img src="https://draginol.stardock.net/images/islanddog/PC-images_ED23/itcrowdpcfire.gif" alt="IT Crowd PC on Fire" style="max-width: 350px; border-radius: 10px; box-shadow: 0 0 20px #ff4500; margin: 15px 0;" />
+        </div>
+        <p style="color: #ff9e00; font-size: 20px; margin-top: 10px;">
+          <span style="background-image: linear-gradient(to right, #ff7f00, #ffff00, #ff7f00); -webkit-background-clip: text; color: transparent; font-weight: bold;">Building Websites That Are Literally 🔥</span>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Blazing Fast Animated Introduction -->
