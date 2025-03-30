@@ -160,11 +160,11 @@
 <div align="center">
   <!-- Custom 8-bit header with pixel character -->
   <h2>
-    <img width="50" src="https://media1.tenor.com/m/Sz6OtKDYTGkAAAAC/link-8bit.gif" alt="8-bit warrior" style="mix-blend-mode: multiply; image-rendering: pixelated;" />
+    <img width="50" src="http://i.imgur.com/HFLKEVa.gif" alt="8-bit warrior" style="image-rendering: pixelated;" />
     <a href="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=400&lines=CONNECT+WITH+ME" target="_blank">
       <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=400&height=70&lines=CONNECT+WITH+ME" alt="8-bit connect" />
     </a>
-    <img width="50" src="https://media1.tenor.com/m/Sz6OtKDYTGkAAAAC/link-8bit.gif" alt="8-bit warrior" style="mix-blend-mode: multiply; image-rendering: pixelated; transform: scaleX(-1);" />
+    <img width="50" src="http://i.imgur.com/HFLKEVa.gif" alt="8-bit warrior" style="image-rendering: pixelated; transform: scaleX(-1);" />
   </h2>
 
   <!-- Pixel Art Characters -->
