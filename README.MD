@@ -53,133 +53,74 @@
 
 <br>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
-<!-- Tech Stack -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 
-  Technologies & Tools
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-</h2>
-
+<!-- Animated Section Divider -->
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1b27" alt="React"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1b27" alt="JavaScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27" alt="Python"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1b27" alt="HTML5"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1b27" alt="CSS3"/>&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1b27" alt="NodeJS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Git"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-<br>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- Services Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7qj/giphy.gif" width="30"> 
-  Services I Offer
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7qj/giphy.gif" width="30">
-</h2>
-
+<!-- COOL CONTRIBUTIONS SECTION with modern styling -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Custom%20Web%20Design-9b00e8?style=for-the-badge&labelColor=black" alt="Custom Web Design"/><br>
-        Building modern, responsive websites tailored to your brand.
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Performance%20Optimization-8A2BE2?style=for-the-badge&labelColor=black" alt="Performance Optimization"/><br>
-        Ensuring your site is fast and efficient.
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-SEO%20Optimization-7B68EE?style=for-the-badge&labelColor=black" alt="SEO Optimization"/><br>
-        Helping your business get found on Google.
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Custom%20Development-6A5ACD?style=for-the-badge&labelColor=black" alt="Custom Development"/><br>
-        Bringing unique web features to life.
-      </td>
-    </tr>
-  </table>
+  <h2 align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire">
+    My GitHub Universe
+    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire">
+  </h2>
 </div>
 
-<br>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
-<!-- GitHub Stats -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
-  GitHub Statistics
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-</h2>
-
-<!-- COOL NEW CONTRIBUTION SECTION -->
-<div align="center">
-  <h3>🐍 My Contribution Snake 🐍</h3>
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<br>
-
-<!-- 3D CONTRIBUTIONS CALENDAR -->
-<div align="center">
-  <h3>📅 GitHub Contribution Calendar 📅</h3>
-  <a href="https://skyline.github.com/thuggys/2023" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%203D%20Contribution%20Calendar-9833FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-  </a>
-</div>
-
-<!-- ISOMETRIC CONTRIBUTION -->
-<div align="center">
-  <h3>🏆 Contribution Visualization 🏆</h3>
+<!-- Advanced Stats Cards with shadow effect -->
+<div align="center" style="display:flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thuggys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&icon_color=C691E9&text_color=FFFFFF&show_owner=true&count_private=true&include_all_commits=true&ring_color=ff00f4&border_radius=10" width="480px" alt="GitHub Stats"/>
   
-  <!-- Reliable contribution chart -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thuggys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&icon_color=C691E9&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuggys&theme=tokyonight&hide_border=true&background=0D1117&ring=C691E9&fire=C691E9&currStreakLabel=C691E9" width="49%" alt="Streak Stats"/>
-  
-  <br><br>
-  
-  <!-- Top languages -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thuggys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&text_color=A7A7A7" width="55%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuggys&theme=tokyonight&hide_border=true&background=0D1117&ring=ff00f4&fire=C691E9&currStreakLabel=C691E9&sideLabels=C691E9&dates=bf91f3&currStreakNum=bf91f3&sideNums=bf91f3&border_radius=10" width="480px" alt="Streak Stats"/>
 </div>
 
-<br>
-
-<!-- GitHub Trophies -->
+<!-- Top languages with gradient card -->
 <div align="center">
-  <h3>🏅 GitHub Achievements 🏅</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=thuggys&theme=discord&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="trophies" />
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thuggys&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C691E9&text_color=bf91f3&layout=compact&langs_count=8&card_width=500&border_radius=10" width="60%" alt="Top Languages"/>
 </div>
 
-<br>
-
-<!-- Activity Graph -->
+<!-- Snake Animation with enhanced styling -->
 <div align="center">
-  <h3>📈 Activity Graph 📈</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=thuggys&theme=react-dark&hide_border=true&bg_color=0D1117&color=C691E9&line=C691E9&point=FFFFFF" width="95%" alt="Activity Graph"/>
+  <br>
+  <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" alt="snake" style="max-width: 100%;">
 </div>
 
-<br>
+<!-- Gradient Line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<!-- GitHub Achievements Trophy Wall with better design -->
+<div align="center">
+  <h2 align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30" alt="Trophy">
+    Achievement Showcase
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30" alt="Trophy">
+  </h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=thuggys&theme=discord&column=6&row=1&margin-w=20&margin-h=20&no-bg=true&no-frame=true" alt="trophies" />
+</div>
+
+<!-- Animated Line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+<!-- Enhanced Activity Graph -->
+<div align="center">
+  <h2 align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" alt="Gear">
+    Contribution Activity
+    <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" alt="Gear">
+  </h2>
+  <!-- Reliable activity graph with purple theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thuggys&custom_title=thuggys's%20Contribution%20Graph&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=bf91f3&point=C691E9&color=C691E9&area=true&area_color=C691E980" width="95%" alt="Activity Graph"/>
+</div>
+
+<!-- Animated Line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <!-- Connect Section -->
 <div align="center">
