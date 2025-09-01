@@ -328,3 +328,28 @@ export default function AutumnButton({
     </button>
   );
 }
+<details>
+<summary><strong>🎨 Usage Examples</strong></summary>
+tsx// In your app
+<AutumnButton variant="maple">Harvest Now</AutumnButton>
+<AutumnButton variant="cider">Order Cider</AutumnButton>  
+<AutumnButton variant="pine">Explore Trail</AutumnButton>
+Features:
+
+✨ Haptic feedback on mobile devices
+🍂 Seasonal particle effects on interaction
+🎯 Accessible with proper ARIA labels
+🎨 Three beautiful autumn variants
+⚡ Smooth animations with Tailwind
+📱 Responsive and touch-friendly
+
+</details>
+
+<div align="center">
+<!-- FOOTER MAGIC -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Happy%20Coding!&fontSize=28&fontAlignY=70&desc=May%20your%20builds%20be%20fast%20and%20your%20coffee%20strong&descSize=12&descAlignY=90&color=gradient&customColorList=D35400,FFB347,FFD166&section=footer&fontColor=fff7e6&animation=twinkling" alt="Footer"/>
+🍂 Built with love in Northern Michigan • Powered by autumn vibes • Forever shipping 🚀
+<br/>
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20%E2%98%95-FFB347?style=for-the-badge&labelColor=0D1117">
+</div>
+```
