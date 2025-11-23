@@ -1,140 +1,155 @@
 <div align="center">
 
-░▒▓ █▓▒░  
-**THUGGYS**  
-`next.js craftsman · northern michigan`  
-░▒▓ █▓▒░  
+<!-- ASCII ART HEADER -->
 
----
+<pre>
+░▒▓ █▓▒░
 
-Building **rude-fast**, modern web experiences with  
-**Next.js 15 · React Server Components · Edge-first infra**  
+<b>T H U G G Y S</b>
 
-[🌐 Portfolio](https://www.cherrycapitalweb.com/) · [💻 GitHub](https://github.com/thuggys) · [📧 Email](mailto:contact@cherrycapitalweb.com)
+<small>next.js craftsman · northern michigan</small>
 
----
+░▒▓ █▓▒░
 
-![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-Server_Components-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Custom_Design_System-0EA5E9?style=for-the-badge&logo=tailwindcss)
-![Vercel](https://img.shields.io/badge/Vercel-Edge_Runtime-000000?style=for-the-badge&logo=vercel)
-![Location](https://img.shields.io/badge/Based_in-Northern_Michigan-15803D?style=for-the-badge&logo=tree)
+</pre>
+
+<!-- INTRO -->
+
+<h3>
+Building <b>rude-fast</b>, modern web experiences with
+
+
+
+
+Next.js 15 · React Server Components · Edge-first Infra
+</h3>
+
+<p>
+<a href="https://www.cherrycapitalweb.com/">🌐 <b>Portfolio</b></a> •
+<a href="mailto:contact@cherrycapitalweb.com">📧 <b>Email</b></a> •
+<a href="https://www.google.com/search?q=https://github.com/thuggys%3Ftab%3Drepositories">💻 <b>Projects</b></a>
+</p>
+
+<!-- BADGES ROW 1 -->
+
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js_15-black%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React_Server_Components-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript_Strict-3178C6%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-0EA5E9%3Fstyle%3Dfor-the-badge%26logo%3Dtailwindcss%26logoColor%3Dwhite" />
+</p>
+
+<!-- BADGES ROW 2 -->
+
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vercel_Edge-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Prisma_ORM-2D3748%3Fstyle%3Dfor-the-badge%26logo%3Dprisma%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Playwright_Automation-45ba4b%3Fstyle%3Dfor-the-badge%26logo%3Dplaywright%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Based_in-Northern_Michigan-15803D?style=for-the-badge&logo=tree" />
+</p>
 
 </div>
 
----
+🧭 The Mission
 
-## 🧭 TL;DR
+I build production-grade, performance-obsessed web apps. I care about clean DX, fast UX, and automation more than buzzwords. If your site isn't hitting 95+ Lighthouse, I'm not done.
 
-- I build **production-grade, performance-obsessed** web apps with **Next.js 15 + RSC**  
-- I care about **clean DX**, **fast UX**, and **automation** more than buzzwords  
-- If your site isn’t hitting **95+ Lighthouse**, I’m not done  
-- Based in **Northern Michigan**, building for **anyone serious about quality**
+"You don’t just get a website. You get a product that feels intentional."
 
----
+<div align="center">
 
-## ⚙️ Core Skillset
+<table>
+<tr>
+<td width="50%">
 
-### 🧱 Frontend
+⚙️ Core Stack
 
-- **Next.js 15** (App Router, RSC, Server Actions, Edge runtime)  
-- **React** with modern patterns (hooks, suspense, streaming)  
-- **TypeScript** with strict configs – types that actually mean something  
-- **Tailwind CSS** + **shadcn/ui** – design systems, not one-off chaos  
-- **Framer Motion** – micro-interactions, page transitions, “feels expensive” vibes  
+Layer
 
-### 🗄 Backend & Data
+Technology
 
-- **Prisma** · **PostgreSQL** – clean schema design & migrations  
-- **Redis** – caching, sessions, rate limiting  
-- **Firebase** – auth, Firestore, functions where it makes sense  
+Frontend
 
-### ☁️ Infra & DevOps
+Next.js 15 RSC Framer Motion
 
-- **Vercel** – edge rendering, ISR, preview deployments  
-- **Cloudflare** – DNS, proxies, caching rules  
-- **GitHub Actions** – CI/CD, test & deploy pipelines  
+Styling
 
-### 🤖 Automation & Scripts
+Tailwind shadcn/ui Design Tokens
 
-- **Python** – tooling, quick data wrangling, CLIs  
-- **Playwright / Puppeteer** – scraping, E2E checks, visual regression  
-- **BeautifulSoup** – HTML parsing & structured scraping  
-- Automated **OG image pipelines**, **SEO audits**, and **reporting scripts**
+Backend
 
----
+PostgreSQL Prisma Redis Node
 
-## 🧪 How I Build (a.k.a. why stuff feels polished)
+Infra
 
-1. **Blueprint** – map the architecture, not just “make some pages”  
-2. **Design System First** – tokens, components, and patterns before chaos  
-3. **Performance from Day 1** – Core Web Vitals, caching, edge, streaming  
-4. **Automation** – if I do it twice, I script it  
-5. **Polish** – micro-animations, empty states, loading states, error UX  
+Vercel Edge Cloudflare Docker
 
-You don’t just get “a website.”  
-You get a **product** that feels intentional.
+Scripts
 
----
+Python BeautifulSoup Playwright
 
-## 🛠 Tech Stack Snapshot
+</td>
+<td width="50%">
 
-| Layer        | Tech I Reach For                                      | Notes                                                  |
-|-------------|--------------------------------------------------------|--------------------------------------------------------|
-| Frontend    | Next.js 15, React, TypeScript, Tailwind, shadcn/ui    | RSC, server actions, client components where needed   |
-| Backend     | Node, Prisma, PostgreSQL, Redis                        | API routes, server actions, background jobs           |
-| Infra       | Vercel, Cloudflare, GitHub Actions                     | Edge-first, previews, CI/CD                           |
-| Automation  | Python, Playwright, Puppeteer, BeautifulSoup           | Scraping, audits, workflows, scheduled jobs           |
+⚡ Performance Stats
 
----
+<!-- GitHub Stats Card -->
 
-## 📌 Recent Work Highlights
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dthuggys%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3Dfff%26text_color%3Dccc%26icon_color%3D0EA5E9" alt="Thuggys Stats" />
 
-- 🎯 **95+ Lighthouse scores** (performance / accessibility / SEO / best practices) on client builds  
-- 🚀 **Edge-rendered apps** with streaming UI and fast TTFB across the US  
-- 🤖 **Automated OG & SEO** pipelines – social-ready previews on autopilot  
-- ⚡ **Custom caching strategies** – smart revalidation, not copy-paste configs  
+</td>
+</tr>
+</table>
 
-<details>
-<summary><strong>What this looks like in practice</strong></summary>
+</div>
 
-- Pre-rendered marketing pages with **incremental revalidation**  
-- App views using **React Server Components** streaming data in chunks  
-- **Server Actions** handling mutations with minimal client JS  
-- Analytics baked in (performance + UX), not bolted on later  
+🧪 How I Build (The "Secret Sauce")
 
-</details>
+Blueprint Phase: Map the architecture. No spaghetti code allowed.
 
----
+Design System First: Tokens, components, and patterns before chaos.
 
-## 💻 Sample Project Structure (How I like to organize a Next app)
+Performance from Day 1: Core Web Vitals, caching, and streaming are not afterthoughts.
 
-```bash
+Automation: If I do it twice, I write a Python script for it.
+
+Polish: Micro-animations, loading states, and error UX that "feels expensive."
+
+💻 Standard Project Architecture
+
+This is how I organize a scalable Next.js 15 application:
+
 app/
-  (marketing)/
-    page.tsx
-    layout.tsx
-  (dashboard)/
-    layout.tsx
-    page.tsx
-    settings/
-      page.tsx
-  api/
-    cron/
-    webhooks/
+ ├── (marketing)/       # SEO-heavy landing pages (ISR)
+ ├── (dashboard)/       # Dynamic app logic (SSR/RSC)
+ ├── api/               # Route Handlers (Edge compatible)
 components/
-  ui/
-  layout/
-  forms/
+ ├── ui/                # Primitive components (Buttons, Inputs)
+ ├── features/          # Complex domain-specific blocks
 lib/
-  auth/
-  db/
-  analytics/
-  validation/
-styles/
-  globals.css
-  tailwind.config.ts
+ ├── db/                # Type-safe database queries
+ ├── actions/           # Server Actions (Mutations)
 scripts/
-  generate-og.ts
-  lighthouse-audit.ts
+ ├── generate-og.ts     # Automated social images
+ └── lighthouse.ts      # CI/CD Performance Audits
+
+
+📈 Coding Activity
+
+<!-- Snake Animation: Requires the workflow file to be active -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github.com/thuggys/thuggys/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<br />
+
+<!-- Footer -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0EA5E9%26height%3D100%26section%3Dfooter" />
+<h3>Ready to build something heavy?</h3>
+<a href="mailto:contact@cherrycapitalweb.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hire_Me-Contact_Now-white%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dred" />
+</a>
+</div>
