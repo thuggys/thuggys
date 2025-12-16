@@ -1,155 +1,52 @@
-<div align="center">
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<!-- ASCII ART HEADER -->
-
-<pre>
-░▒▓ █▓▒░
-
-<b>T H U G G Y S</b>
-
-<small>next.js craftsman · northern michigan</small>
-
-░▒▓ █▓▒░
-
-</pre>
-
-<!-- INTRO -->
-
-<h3>
-Building <b>rude-fast</b>, modern web experiences with
-
-
-
-
-Next.js 15 · React Server Components · Edge-first Infra
-</h3>
-
-<p>
-<a href="https://www.cherrycapitalweb.com/">🌐 <b>Portfolio</b></a> •
-<a href="mailto:contact@cherrycapitalweb.com">📧 <b>Email</b></a> •
-<a href="https://www.google.com/search?q=https://github.com/thuggys%3Ftab%3Drepositories">💻 <b>Projects</b></a>
-</p>
-
-<!-- BADGES ROW 1 -->
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js_15-black%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React_Server_Components-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript_Strict-3178C6%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-0EA5E9%3Fstyle%3Dfor-the-badge%26logo%3Dtailwindcss%26logoColor%3Dwhite" />
-</p>
-
-<!-- BADGES ROW 2 -->
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vercel_Edge-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Prisma_ORM-2D3748%3Fstyle%3Dfor-the-badge%26logo%3Dprisma%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Playwright_Automation-45ba4b%3Fstyle%3Dfor-the-badge%26logo%3Dplaywright%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Based_in-Northern_Michigan-15803D?style=for-the-badge&logo=tree" />
-</p>
-
-</div>
-
-🧭 The Mission
-
-I build production-grade, performance-obsessed web apps. I care about clean DX, fast UX, and automation more than buzzwords. If your site isn't hitting 95+ Lighthouse, I'm not done.
-
-"You don’t just get a website. You get a product that feels intentional."
+###
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-⚙️ Core Stack
-
-Layer
-
-Technology
-
-Frontend
-
-Next.js 15 RSC Framer Motion
-
-Styling
-
-Tailwind shadcn/ui Design Tokens
-
-Backend
-
-PostgreSQL Prisma Redis Node
-
-Infra
-
-Vercel Edge Cloudflare Docker
-
-Scripts
-
-Python BeautifulSoup Playwright
-
-</td>
-<td width="50%">
-
-⚡ Performance Stats
-
-<!-- GitHub Stats Card -->
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dthuggys%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3Dfff%26text_color%3Dccc%26icon_color%3D0EA5E9" alt="Thuggys Stats" />
-
-</td>
-</tr>
-</table>
-
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
-🧪 How I Build (The "Secret Sauce")
-
-Blueprint Phase: Map the architecture. No spaghetti code allowed.
-
-Design System First: Tokens, components, and patterns before chaos.
-
-Performance from Day 1: Core Web Vitals, caching, and streaming are not afterthoughts.
-
-Automation: If I do it twice, I write a Python script for it.
-
-Polish: Micro-animations, loading states, and error UX that "feels expensive."
-
-💻 Standard Project Architecture
-
-This is how I organize a scalable Next.js 15 application:
-
-app/
- ├── (marketing)/       # SEO-heavy landing pages (ISR)
- ├── (dashboard)/       # Dynamic app logic (SSR/RSC)
- ├── api/               # Route Handlers (Edge compatible)
-components/
- ├── ui/                # Primitive components (Buttons, Inputs)
- ├── features/          # Complex domain-specific blocks
-lib/
- ├── db/                # Type-safe database queries
- ├── actions/           # Server Actions (Mutations)
-scripts/
- ├── generate-og.ts     # Automated social images
- └── lighthouse.ts      # CI/CD Performance Audits
-
-
-📈 Coding Activity
-
-<!-- Snake Animation: Requires the workflow file to be active -->
+###
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github.com/thuggys/thuggys/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
-<br />
-
-<!-- Footer -->
+###
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0EA5E9%26height%3D100%26section%3Dfooter" />
-<h3>Ready to build something heavy?</h3>
-<a href="mailto:contact@cherrycapitalweb.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hire_Me-Contact_Now-white%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dred" />
-</a>
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
